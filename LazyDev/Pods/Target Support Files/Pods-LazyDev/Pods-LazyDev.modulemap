@@ -1,0 +1,6 @@
+framework module Pods_LazyDev {
+  umbrella header "Pods-LazyDev-umbrella.h"
+
+  export *
+  module * { export * }
+}
